@@ -1,0 +1,1 @@
+config.js --> repositories/student.js --> controller/student.js --> router.js --> app.js
